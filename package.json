@@ -1,0 +1,1 @@
+{"description":"Funniest Time Machine Warning Label — a one-line warning label for a time machine, 120 characters or fewer.","license":"MIT","main":"main.ts","name":"funniest-time-machine-warning-label-gc22","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
